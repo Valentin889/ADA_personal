@@ -3,3 +3,5 @@
 *.DS_Store?
 datas
 ideas.md
+.idea
+.idea/
